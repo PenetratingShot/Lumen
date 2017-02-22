@@ -1,0 +1,21 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+i{
+  padding-top: 220px;
+}
+a{
+  text-decoration: none;
+  color: black;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+a:hover{
+  color: #ff2626;
+}
+a,visited{
+  text-decoration: none;
+  color: black;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;  
+}
